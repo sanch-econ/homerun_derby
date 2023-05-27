@@ -2,7 +2,6 @@ import statsapi
 import pandas as pd
 from datetime import datetime, timedelta
 from globals import *
-import matplotlib.pyplot as plt
 
 class Schedule:
 

@@ -38,4 +38,4 @@ with col2:
     # Writes montly df to dashboard
     st.dataframe(monthly_df, height=980)
 
-     
+    
